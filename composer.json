@@ -28,7 +28,7 @@
         "psr/http-factory-implementation": "^1.0",
         "php-http/discovery": "^1.6",
         "nyholm/psr7": "^1.0",
-        "paragonie/certainty": "dev-master",
+        "paragonie/certainty": "^2.8",
         "divineomega/do-file-cache-psr-6": "^2.0",
         "divineomega/psr-18-guzzle-adapter": "dev-master"
     },
@@ -64,10 +64,6 @@
         {
             "type": "vcs",
             "url": "https://github.com/ziming/psr-18-guzzle-adapter"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/ziming/certainty"
         }
     ]
 }
